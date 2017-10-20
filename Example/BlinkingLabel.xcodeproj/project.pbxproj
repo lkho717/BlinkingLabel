@@ -14,7 +14,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		60EBCCEBB15AAFE18DDBCCBC /* Pods_BlinkingLabel_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 360D322B233629D6C03623E7 /* Pods_BlinkingLabel_Tests.framework */; };
-		6A14F54A1F99BB1500F6943A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6A14F5491F99BB1500F6943A /* README.md */; };
+		6A14F54C1F99BCF600F6943A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6A14F54B1F99BCF600F6943A /* README.md */; };
 		F2EBF4F8808FAAED068B5FDB /* Pods_BlinkingLabel_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D60F8DDEF74D11BD0293E06D /* Pods_BlinkingLabel_Example.framework */; };
 /* End PBXBuildFile section */
 
@@ -43,7 +43,7 @@
 		607FACE51AFB9204008FA782 /* BlinkingLabel_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlinkingLabel_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6A14F5491F99BB1500F6943A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6A14F54B1F99BCF600F6943A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6A16BF01EA7B56F72C62EAE7 /* Pods-BlinkingLabel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlinkingLabel_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BlinkingLabel_Tests/Pods-BlinkingLabel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		70BF15D9D89866BA690BE46A /* Pods-BlinkingLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlinkingLabel_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BlinkingLabel_Tests/Pods-BlinkingLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		C6B2891483CA90B11C44DFDF /* BlinkingLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BlinkingLabel.podspec; path = ../BlinkingLabel.podspec; sourceTree = "<group>"; };
@@ -144,7 +144,7 @@
 			children = (
 				C6B2891483CA90B11C44DFDF /* BlinkingLabel.podspec */,
 				50FC4AD6E59207888E6AFBB5 /* LICENSE */,
-				6A14F5491F99BB1500F6943A /* README.md */,
+				6A14F54B1F99BCF600F6943A /* README.md */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -251,7 +251,7 @@
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
-				6A14F54A1F99BB1500F6943A /* README.md in Resources */,
+				6A14F54C1F99BCF600F6943A /* README.md in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
